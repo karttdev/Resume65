@@ -1,0 +1,13 @@
+
+ <form>
+      <label for="cat">Например, очаровательный...</label><br />
+      <input
+        type="text"
+        ip="cat"(исправить на id="cat") 
+        name="cat"(не может совпадать с id)
+        clas="cat"(править на class,значание не может быть cat)
+        placeholder="Опишите моего кота:"
+      /><br />
+    </form>
+  </body>
+</html>
